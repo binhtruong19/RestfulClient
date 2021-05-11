@@ -1,0 +1,4 @@
+module Pages
+
+PageRequest 1.0 PageRequest.qml
+PageRequests 1.0 PageRequests.qml

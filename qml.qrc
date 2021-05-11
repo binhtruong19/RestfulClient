@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Pages/PageRequest.qml</file>
+        <file>Pages/qmldir</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Pages/PageRequests.qml</file>
+        <file>Components/EnvironmentPanel.qml</file>
+        <file>Components/qmldir</file>
+    </qresource>
+</RCC>
